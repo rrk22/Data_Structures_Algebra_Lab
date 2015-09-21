@@ -1,1 +1,2 @@
 # Data_Structures_Algebra_Lab
+Read CS_314_Assignment_7_Trees_and_Symbolic_Algebra.html
